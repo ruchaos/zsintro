@@ -1,0 +1,26 @@
+diff --git a/README.md b/README.md
+index 8d3a303..690bbec 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,6 @@
+ # zsintro
+ 智赛网说明文档
+-试试看
++试试看111
+ 
+ 已经试过了
+ 
+diff --git a/zsbp.md b/zsbp.md
+index 4eff059..4453b3f 100644
+--- a/zsbp.md
++++ b/zsbp.md
+@@ -5,6 +5,9 @@
+ 这个还是老的，也staged一次
+ 
+ 这么跳过来行吗？
++？？？我怎么知道这个是分支还是master？？？
++
++这个如何是好？？
+ 
+ 合理的对阵编排是保证智力运动赛事公平、公正、激烈、有序的必要条件。
+ 
